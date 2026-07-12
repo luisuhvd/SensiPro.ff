@@ -1,0 +1,2 @@
+# SensiPro.ff
+Sensibilidade
